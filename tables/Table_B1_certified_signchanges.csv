@@ -1,0 +1,6 @@
+Group,alpha,beta,t0,$\widehat{W}(t_0)$,$\varepsilon_{\mathrm{tot}}$,Sign,Verdict
+"near(6,9)",6.0,9.0,19.88,-3.71e-08,1.00e-10,NEG,NEGATIVE CERTIFIED
+"near(6,9)",5.7,9.0,19.88,3.24e-08,1.00e-10,POS,POSITIVE CERTIFIED
+"near(6,9)",6.0,8.0,19.88,-8.92e-08,1.00e-10,NEG,NEGATIVE CERTIFIED
+strong-neg,6.233,0.1,14.9,-1.72e-06,1.00e-10,NEG,NEGATIVE CERTIFIED
+strong-neg,6.233,0.1172,14.9,-1.71e-06,1.00e-10,NEG,NEGATIVE CERTIFIED
